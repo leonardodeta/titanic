@@ -27,10 +27,10 @@ Ensure you have the following installed:
    git clone https://github.com/leonardodeta/titanic.git
 
 2. Navigate to the project directory
-   cd titanic
+   ```cd titanic```
 
 3. Install the required packages:
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 
 ### Running the Notebook
 1. Open jupyter notebook
